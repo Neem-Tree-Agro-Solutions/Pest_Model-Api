@@ -12,6 +12,6 @@ $python3 -m pip install -r requirements.txt
 ```C
 python app.py
 ```
-Go to the URL 127.0.0.1:8080 to check out the API
+Go to the URL http://127.0.0.1:8080 to check out the API
 
 API is built using FASTAPI. To learn more: Click [here](https://fastapi.tiangolo.com/)
